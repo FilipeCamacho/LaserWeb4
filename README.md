@@ -1,3 +1,4 @@
+ HEAD
 # LaserWeb (4.0.x)
 
 This repository is a "development environment" - and no regular user would have to touch this at all (dont download the repo from here, use the Download links below)
@@ -74,4 +75,3 @@ If you want to contribute, below are long standing community-requested enhanceme
 ## How to contribute ?
 
 Details on [https://github.com/LaserWeb/LaserWeb4/wiki/How-to-Contribute](https://github.com/LaserWeb/LaserWeb4/wiki/How-to-Contribute)
-
